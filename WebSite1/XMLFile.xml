@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bookstore>
+    <Book>
+        <Title>Colorless</Title>
+        <author>Haruki Murakami</author>
+        <image>new1.jpg</image>
+        <genre>Fantasy</genre>
+        
+    </Book>
+    <Book>
+        <Title>Anthology of World Literature</Title>
+        <author>Sum Guy</author>
+        <genre>Non-Fiction</genre>
+        <image>new1.jpg</image>
+        
+    </Book>
+    <Book>
+        <Title>Battle Royale</Title>
+        <author>Sum Guy</author>
+        <genre>Sci-Fy</genre>
+        <image>new6.jpg</image>
+        
+    </Book>
+    <Book>
+        <Title>To Hold the Bridge</Title>
+        <author>Sum Guy</author>
+        <genre>Western</genre>
+        <image>new7.jpg</image>
+        
+    </Book>
+    <Book>
+        <Title>Spice and Wolf</Title>
+        <author>Sum Guy</author>
+        <genre>Historical</genre>
+        <image>book2.jpg</image>
+    </Book>
+</Bookstore>
