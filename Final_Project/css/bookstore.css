@@ -1,0 +1,347 @@
+﻿/*tim terrio*/
+/*Bookstore Master CSS*/
+body
+{
+	background-color: #565656;
+	color: #565656;
+	font-family: Verdana, Arial, Sans-Serif;
+}
+
+#wrapper
+{
+    width: 80%;
+	max-width: 1024px;
+	min-width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #E1E1D6;
+    border-radius: 50px 50px 0px 0px
+}
+
+#formWrapper
+{
+    text-align: center;
+    width: 100%;
+}
+
+.leftAlign
+{
+	width: 70%;
+	display: block;
+}
+
+.rightAlign
+{
+	float: right;
+	width: 200px;
+	display: block;
+}
+
+header {
+    color: #D3D9DF;
+    background-color: #6dade8;
+    border-radius: 50px 50px 0px 0px;
+    padding-bottom: 50px;
+}
+
+header img
+{
+    float: left;
+    display: inline-block;
+    padding: 2rem;
+    margin-left: 2rem;
+}
+
+header h1
+{
+    font-size: 40px;
+    font-family: Georgia, serif;
+    color: #f4f4f4;
+    display: inline-block;
+    position: relative;
+    padding: 20px 20px 0 0;
+    display: inline-block;
+}
+
+h1
+{
+	line-height: 200%;
+	height: 72px;
+	margin-bottom: 0;
+}
+
+h2{}
+h2.centered
+{
+	text-align: center;
+}
+
+h3{}
+h3.centered
+{
+	text-align: center;
+}
+
+p.centered
+{
+	text-align: center;
+}
+
+ul.undecorated{}
+ul.undecorated li{list-style-type: none;}
+
+ul.undecoratedCentered{}
+ul.undecoratedCentered li
+{
+	list-style-type: none;
+	text-align: center;
+}
+
+nav.vertical {
+    float: left;
+    min-width: 100px;
+    max-width: 400px;
+    max-height: 500px;
+    width: auto;
+    background-color: #6dade8;
+    padding-right: 10px;
+}
+
+nav.vertical li
+{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 10px;
+	list-style-type: none;
+	font-size: 20px;
+}
+
+nav.vertical li a
+{
+   color: #ffffff;
+   text-decoration: none;
+}
+
+nav.vertical li a:hover {color: #cc6633;}
+nav.vertical li a:link { color: #DBDBCE; }
+nav.vertical li a:visited { color: #DBDBCE; }
+
+main p a { color: #565656}
+main p a:hover { color: #004489}
+
+main
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+}
+
+aside
+{
+	border-style: double;
+	border-radius: 10px;
+	float: right;
+}
+
+aside p, aside h3
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+img.primary
+{
+	float: right;
+	padding: 10px;
+}
+
+img.newbook
+{
+	padding: 5px;
+	width: 60px;
+	height: 80px;
+}
+
+img.catalog
+{
+	width: 100px;
+	height: 120px;
+}
+
+header, nav, main, footer
+{
+	display: block;
+}
+
+/*
+form
+{
+	margin-left: 38%;
+	float: center;
+}
+
+fieldset
+{
+	width: 35%;
+}
+*/
+
+/*
+table
+{
+	width: 70%;
+  border-collapse: collapse;
+	margin-left:8%;
+  margin-right:15%;
+	margin-bottom: 5%;
+}
+
+table, th, td
+{
+   border: 1px solid #565656;
+   text-align: center;
+   padding: 2px;
+}
+
+hr
+{
+	text-align: left;
+	color: #DBDBCE;
+}
+
+th {min-width: 200px;}
+
+tr:hover {background-color: #D3D9DF}
+*/
+
+.homeGrid {
+    
+}
+
+.homeGridHeader {
+    
+}
+
+.homeGridRows {
+    
+}
+
+.homeGridRows:hover {
+    
+}
+
+.homeGrid td {
+    
+}
+
+.homeGrid th {
+    
+}
+
+footer nav
+{
+	padding: 0;
+	margin: 0;
+	background-color: #E1E1D6;
+}
+
+footer nav a:link{ color: #989898;}
+footer nav a:visited { color: #989898; }
+footer nav a:hover { color: #565656; }
+
+footer p
+{
+	margin: 0;
+	padding: 0;
+}
+
+footer
+{
+	font-size: small;
+	font-style: italic;
+	text-align: center;
+	padding: 10px;
+}
+.container {
+    position: relative;
+    padding:50px;
+
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+    cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Six columns side by side */
+.column {
+    float: left;
+    width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+    opacity: 0.6;
+}
+
+    .active,
+    .demo:hover {
+        opacity: 1;
+    }

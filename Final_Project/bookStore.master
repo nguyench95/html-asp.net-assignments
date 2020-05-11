@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="bookStore.master.cs" Inherits="store" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="images/book-2022464_960_720.png" sizes="16x16" type="image/png" />
+    <link rel="stylesheet" href="css/bookstore.css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+    <a href="index.aspx"><img src="images/banner.jpg" alt="Book Banner" width="1000" height="350" /></a>
+        <header>
+            <h1>Narnes and Bobles</h1>
+            
+        </header>
+        <nav class="vertical">
+            <ul>
+               <li><a href= "index.aspx">Home</a></li>
+               <li><a href= "inventory.aspx">Inventory</a></li>
+               <li><a href= "events.aspx">Events</a></li>
+               <li><a href= "contact.aspx">Contact Us</a></li>
+           </ul>
+        </nav>
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer>
+          <p>--<a href="#top">Go to top</a>--</p>
+        </footer>
+
+    </div>
+    </form>
+</body>
+</html>

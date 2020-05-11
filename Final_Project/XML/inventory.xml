@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <title>A Gentleman in Moscow</title>
+    <author>Amor Towles</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>12.99</price>
+    <quantity>21</quantity>
+    <cover>images\books\gentleman_in_moscow.png</cover>
+  </book>
+  <book>
+    <title>Storm Glass</title>
+    <author>Jeff Wheeler</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>15.99</price>
+    <quantity>12</quantity>
+    <cover>images\books\storm_glass.png</cover>
+  </book>
+  <book>
+    <title>Glory Road</title>
+    <author>Robert A. Heinlein</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>11.99</price>
+    <quantity>22</quantity>
+    <cover>images\books\glory_road.png</cover>
+  </book>
+  <book>
+    <title>Age of War</title>
+    <author>Michael J. Sullivan</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>11.99</price>
+    <quantity>25</quantity>
+    <cover>images\books\age_of_war.png</cover>
+  </book>
+  <book>
+    <title>The War Planners</title>
+    <author>Andrew Watts</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>14.99</price>
+    <quantity>19</quantity>
+    <cover>images\books\the_war_planners.png</cover>
+  </book>
+  <book>
+    <title>Accessory to War</title>
+    <author>Neil Degrasse Tyson</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>21.99</price>
+    <quantity>4</quantity>
+    <cover>images\books\accessory_to_war.png</cover>
+  </book>
+  <book>
+    <title>The Lost Kitchen</title>
+    <author>Erin  French</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>8.99</price>
+    <quantity>24</quantity>
+    <cover>images\books\lost_kitchen.png</cover>
+  </book>
+  <book>
+    <title>Home Grown</title>
+    <author>Matt Jennings</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>6.99</price>
+    <quantity>25</quantity>
+    <cover>images\books\home_grown.png</cover>
+  </book>
+  <book>
+    <title>Rich Dad Poor Dad</title>
+    <author>Robert T. Kiyosaki</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>10.99</price>
+    <quantity>22</quantity>
+    <cover>images\books\rich_dad_poor_dad.png</cover>
+  </book>
+  <book>
+    <title>Principles</title>
+    <author>Ray dalio</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>9.99</price>
+    <quantity>21</quantity>
+    <cover>images\books\principles.png</cover>
+  </book>
+  <book>
+    <title>The Design of Everyday Things</title>
+    <author>Don Norman</author>
+    <genre>Nonfiction</genre>
+    <description>A book with words in it</description>
+    <price>12.99</price>
+    <quantity>17</quantity>
+    <cover>images\books\the_design_of_everyday_things.png</cover>
+  </book>
+  <book>
+    <title>Leadership</title>
+    <author>Dorris Kearns Goodwin</author>
+    <genre>Biography</genre>
+    <description>A book with words in it</description>
+    <price>8.99</price>
+    <quantity>25</quantity>
+    <cover>images\books\leadership.jpg</cover>
+  </book>
+  <book>
+    <title>Grant</title>
+    <author>Ron Chernow</author>
+    <genre>Biography</genre>
+    <description>A book with words in it</description>
+    <price>11.99</price>
+    <quantity>20</quantity>
+    <cover>images\books\grant.png</cover>
+  </book>
+  <book>
+    <title>Washington</title>
+    <author>Ron Chernow</author>
+    <genre>Biography</genre>
+    <description>A book with words in it</description>
+    <price>11.99</price>
+    <quantity>19</quantity>
+    <cover>images\books\Washington.png</cover>
+  </book>
+  <book>
+    <title>The Hiding Place</title>
+    <author>Corrie Ten Boom</author>
+    <genre>Biography</genre>
+    <description>A book with words in it</description>
+    <price>14.99</price>
+    <quantity>24</quantity>
+    <cover>images\books\hiding_place.png</cover>
+  </book>
+  <book>
+    <title>On the Day You Were Born</title>
+    <author>Debra Fraiser</author>
+    <genre>Childrens</genre>
+    <description>A book with words in it</description>
+    <price>12.99</price>
+    <quantity>3</quantity>
+    <cover>images\books\on_the_day_you_were_born.png</cover>
+  </book>
+  <book>
+    <title>Goodnight Moon</title>
+    <author>Margaret Wise Brown</author>
+    <genre>Childrens</genre>
+    <description>A book with words in it</description>
+    <price>9.99</price>
+    <quantity>14</quantity>
+    <cover>images\books\goodbye_moon.png</cover>
+  </book>
+  <book>
+    <title>Hungry Caterpillar</title>
+    <author>Eric Carle</author>
+    <genre>Childrens</genre>
+    <description>A book with words in it.</description>
+    <price>7.99</price>
+    <quantity>16</quantity>
+    <cover>images\books\hungery_caterpillar.png</cover>
+  </book>
+  <book>
+    <title>The Rainbow Fish</title>
+    <author>Marcus Pfister</author>
+    <genre>Childrens</genre>
+    <description>A book with words in it</description>
+    <price>8.99</price>
+    <quantity>14</quantity>
+    <cover>images\books\rainbow_fish.png</cover>
+  </book>
+  <book>
+    <title>Where's Spot?</title>
+    <author>Eric Hill</author>
+    <genre>Childrens</genre>
+    <description>A book with words in it</description>
+    <price>9.99</price>
+    <quantity>18</quantity>
+    <cover>images\books\wheres_spot.png</cover>
+  </book>
+  <book>
+    <title>Check Please! #Hockey</title>
+    <author>Ngozi Ukazu</author>
+    <genre>Teen</genre>
+    <description>A book with words in it</description>
+    <price>4.99</price>
+    <quantity>25</quantity>
+    <cover>images\books\check_please.png</cover>
+  </book>
+  <book>
+    <title>Rule</title>
+    <author>Ellen Goodlett</author>
+    <genre>Teen</genre>
+    <description>A book with words in it</description>
+    <price>13.99</price>
+    <quantity>21</quantity>
+    <cover>images\books\rule.png</cover>
+  </book>
+  <book>
+    <title>Imposters</title>
+    <author>Scott Westerfeld</author>
+    <genre>Teen</genre>
+    <description>A book with words in it</description>
+    <price>14.99</price>
+    <quantity>17</quantity>
+    <cover>images\books\imposters.png</cover>
+  </book>
+  <book>
+    <title>The Echo Room</title>
+    <author>Parker Peevyhouse</author>
+    <genre>Teen</genre>
+    <description>A book with words in it</description>
+    <price>12.99</price>
+    <quantity>24</quantity>
+    <cover>images\books\the_echo_room.png</cover>
+  </book>
+  <book>
+    <title>Juror #3</title>
+    <author>James Patterson/ Nancy Allen</author>
+    <genre>Mystery</genre>
+    <description>A book with words in it</description>
+    <price>18.99</price>
+    <quantity>11</quantity>
+    <cover>images\books\juror3.png</cover>
+  </book>
+  <book>
+    <title>What Have You Done?</title>
+    <author>Mattew Farrel</author>
+    <genre>Mystery</genre>
+    <description>A book with words in it</description>
+    <price>14.99</price>
+    <quantity>16</quantity>
+    <cover>images\books\what_have_you_done.png</cover>
+  </book>
+  <book>
+    <title>Her Mother's Grave</title>
+    <author>Lisa Regan</author>
+    <genre>Mystery</genre>
+    <description>A book with words in it</description>
+    <price>15.99</price>
+    <quantity>23</quantity>
+    <cover>images\books\her_mothers_grave.png</cover>
+  </book>
+  <book>
+    <title>Metamorphosis</title>
+    <author>Mago</author>
+    <genre>Fiction</genre>
+    <description>A book with words in it</description>
+    <price>10.99</price>
+    <quantity>23</quantity>
+    <cover>images\book1.jpg</cover>
+  </book>
+</books>
